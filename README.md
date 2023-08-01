@@ -5,7 +5,7 @@
     - 2.1 Properties of Vectors
     - 2.2 Further Properties of Vectors
     - 2.3 Linear Dependence
-    - Basis and Spanning Set
+    - 2.4 Basis and Spanning Set
 
 - Chapter 6: Determinants and the Inverse Matrix
     - 6.1Determinant of a Matrix
