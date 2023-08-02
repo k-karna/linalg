@@ -12,7 +12,7 @@
     - 6.2 Determinants of Other Matrices
     - 6.3 Properties of Determinants
     - 6.4 LU Factorization
-- Eigenvalues and Eigenvectors
+- chapter 7: Eigenvalues and Eigenvectors
     - 7.1 Introduction to Eigenvalues and Eigenvectors
     - 7.2 Properties of Eigenvalues and Eigenvectors
     - 7.3 Diagonalization
