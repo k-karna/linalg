@@ -12,11 +12,13 @@
     - 6.2 Determinants of Other Matrices
     - 6.3 Properties of Determinants
     - 6.4 LU Factorization
-- chapter 7: Eigenvalues and Eigenvectors
+- Chapter 7: Eigenvalues and Eigenvectors
     - 7.1 Introduction to Eigenvalues and Eigenvectors
     - 7.2 Properties of Eigenvalues and Eigenvectors
     - 7.3 Diagonalization
     - 7.4 Diagonalization of Symmetric Matrices
     - 7.5 Singular Value Decomposition
+ 
+<i>Archiving it, perhaps will create another repo for remaining chapters, or other books</i>
   
    
