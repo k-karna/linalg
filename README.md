@@ -1,5 +1,6 @@
 # Linear Algebra 
 <h4>Step by Step by Kuldeep Singh.</h4>
+Pre-Script: Please do not fork it, there's 17,533 lines of LaTeX written for it.
 
 - Chapter 2: Euclidean Space
     - 2.1 Properties of Vectors
