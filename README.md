@@ -1,6 +1,5 @@
 # Linear Algebra 
 <h4>Step by Step by Kuldeep Singh.</h4>
-Pre-Script: Please do not fork it, there's 17,533 lines of LaTeX written for it.
 
 - Chapter 2: Euclidean Space
     - 2.1 Properties of Vectors
@@ -20,6 +19,7 @@ Pre-Script: Please do not fork it, there's 17,533 lines of LaTeX written for it.
     - 7.4 Diagonalization of Symmetric Matrices
     - 7.5 Singular Value Decomposition
  
-<i>Archiving it, perhaps will create another repo for remaining chapters, or other books</i>
+<i>P.S. Please do not copy it, there are 17,533 lines of LaTeX written meticulously for it.
+</i>
   
    
